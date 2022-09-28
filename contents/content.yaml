@@ -9,6 +9,16 @@ attributes:
             values:
               it:
                 id: resourceIdPlaceHolder
+            code: my-code
+            elements: {}
+            listelements: {}
+            compositeelements: {}
+            value: ''
         name: CompositeOfImages
-    name: MonolistOfImages
+        values: {}
+        value: ''
+        elements: {}
+        listelements: {}
+    compositeelements: []
+    listelements: {}
 typeCode: MCI
