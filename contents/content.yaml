@@ -5,10 +5,10 @@ attributes:
     elements:
       - code: compo-image
         compositeelements:
-        - code: image
-          values:
-            it:
-              id: resourceIdPlaceHolder
+          - code: image
+            values:
+              it:
+                id: resourceIdPlaceHolder
         name: CompositeOfImages
     name: MonolistOfImages
 typeCode: MCI
