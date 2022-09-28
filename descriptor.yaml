@@ -1,0 +1,10 @@
+descriptorVersion: v5
+name: eng-4215
+description: This is the eng-4215 bundle
+
+components:
+  contentTypes:
+    - contentTypes/content-type.yaml
+
+  contents:
+    - contents/content.yaml
