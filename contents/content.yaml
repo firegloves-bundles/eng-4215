@@ -10,14 +10,14 @@ attributes:
               it:
                 id: resourceIdPlaceHolder
             code: my-code
-            elements: {}
+            elements: []
             listelements: {}
-            compositeelements: {}
+            compositeelements: []
             value: ''
         name: CompositeOfImages
         values: {}
         value: ''
-        elements: {}
+        elements: []
         listelements: {}
     compositeelements: []
     listelements: {}
