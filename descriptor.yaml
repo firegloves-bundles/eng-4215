@@ -3,11 +3,11 @@ name: eng-4215
 description: This is the eng-4215 bundle
 
 components:
-  #contentTypes:
-  #  - contentTypes/content-type.yaml
-  #
-  #contents:
-  #  - contents/content.yaml
+  contentTypes:
+    - contentTypes/content-type.yaml
+  
+  contents:
+    - contents/content.yaml
 
-  plugins:
-    - plugins/plugin.yaml
+  #plugins:
+  #  - plugins/plugin.yaml
