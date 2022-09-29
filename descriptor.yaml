@@ -8,3 +8,6 @@ components:
 
   contents:
     - contents/content.yaml
+
+  plugins:
+    - plugins/plugin.yaml
