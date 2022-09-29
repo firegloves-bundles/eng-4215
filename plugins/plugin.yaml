@@ -1,0 +1,9 @@
+descriptorVersion: v5
+name: new-bundle-plugin
+image: registry.key-biz.cloud/cl/entando/cdp-acquisti/cdp-acquisti-be:1.0.1
+dbms: mysql
+healthCheckPath: "/management/health"
+ingressPath: "/mycustom/ingresso"
+roles:
+  - "myapp2mysql-admin"
+  - "point-2-d-admin"
