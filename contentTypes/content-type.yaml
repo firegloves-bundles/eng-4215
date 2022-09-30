@@ -4,4 +4,11 @@ attributes:
   - code: mono-compo-image
     type: Monolist
     name: Monolist Composition Image Description
-    nestedAttribute: {}
+    nestedAttribute:
+      code: compo-image
+      type: Composite
+      name: Composition Image Description
+      compositeAttributes:
+        - code: image
+          type: Image
+          name: Image Description
