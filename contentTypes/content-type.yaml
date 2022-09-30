@@ -8,4 +8,7 @@ attributes:
       code: compo-image
       type: Composite
       name: Composition Image Description
-      compositeAttributes: []
+      compositeAttributes:
+        - code: image
+          type: Image
+          name: Image Description
