@@ -1,3 +1,7 @@
 code: MCI
 name: Content Type MCI
-attributes: []
+attributes:
+  - code: mono-compo-image
+    type: Monolist
+    name: Monolist Composition Image Description
+    nestedAttribute: {}
