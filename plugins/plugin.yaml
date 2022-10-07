@@ -1,6 +1,6 @@
 descriptorVersion: v5
 name: new-bundle-plugin
-image: registry.key-biz.cloud/cl/entando/cdp-acquisti/cdp-acquisti-be:1.0.1
+image: registry.eng-entando.com:5000/entando/test/registry/simple-ms:latest
 dbms: mysql
 healthCheckPath: "/management/health"
 ingressPath: "/mycustom/ingresso"
